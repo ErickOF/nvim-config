@@ -15,6 +15,9 @@
   "nvim-tree.lua": { "branch": "master", "commit": "85c502e9076d9c82e2f04addabb3614846ae7558" },
   "nvim-web-devicons": { "branch": "master", "commit": "6ed787740a3b275b748328eb2dc7dd22dae1c064" },
   "onedarkpro.nvim": { "branch": "main", "commit": "9cb77d936fd42c2c98becceb0f132df170d4eba0" },
+  "plenary.nvim": { "branch": "master", "commit": "a3e3bc82a3f95c5ed0d7201546d5d2c19b20d683" },
+  "telescope-fzy-native.nvim": { "branch": "master", "commit": "282f069504515eec762ab6d6c89903377252bf5b" },
+  "telescope.nvim": { "branch": "master", "commit": "f12b15e1b3a33524eb06a1ae7bc852fb1fd92197" },
   "toggleterm.nvim": { "branch": "main", "commit": "fee58a0473fd92b28c34f8f724e4918b15ba30a3" },
   "vim-wakatime": { "branch": "master", "commit": "56b4d073adaf18c04c7bb5728d41c03b2f25754d" }
 }
